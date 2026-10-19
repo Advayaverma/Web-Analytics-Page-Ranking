@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Kaggle API credentials
+kaggle.json
+.kaggle/
+
+# Dataset directory (large files should not be tracked by git)
+data/
+
+# OS generated files
+.DS_Store
+Thumbs.db
